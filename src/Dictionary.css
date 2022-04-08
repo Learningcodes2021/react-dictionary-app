@@ -2,3 +2,7 @@
   text-align: center;
   margin: 0 auto;
 }
+
+.Dictionary input {
+  border-radius: 10px;
+}
