@@ -10,7 +10,7 @@ export default function App() {
           <img
             src={logo}
             className="App-logo
-      img-fluid"
+           img-fluid"
             alt="logo"
           />
         </header>
@@ -22,6 +22,7 @@ export default function App() {
             <a
               href="https://github.com/Learningcodes2021/react-dictionary-app"
               target="_blank"
+              rel="noreferrer"
             >
               Open-source code{" "}
             </a>
