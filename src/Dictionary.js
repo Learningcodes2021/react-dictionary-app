@@ -26,7 +26,6 @@ export default function Dictionary(props) {
     let pexelsApiKey =
       "563492ad6f917000010000011b9dedcdcd504f21b8e068ecee255b4b";
     let pexelsApiUrl = `https://api.pexels.com/v1/search?query=${keyword}&per_page=6`;
-
     axios
       .get(pexelsApiUrl, {
         headers: { Authorization: `Bearer ${pexelsApiKey}` },
@@ -61,7 +60,7 @@ export default function Dictionary(props) {
             />
           </form>
           <div className="hint">
-            suggested words: sunset, lighthouse, ocean...
+            suggested words: sunset, lighthouse, butterfly, ocean...
           </div>
         </section>
         <Results results={results} />

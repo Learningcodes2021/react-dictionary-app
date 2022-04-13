@@ -1,5 +1,4 @@
 import logo from "./logo.jpg";
-import backgroundVideo from "./images/sunset.mp4";
 import "./App.css";
 import Dictionary from "./Dictionary";
 
@@ -23,6 +22,10 @@ export default function App() {
               Open-source code{" "}
             </a>
             by Jacqueline Berry
+            <br />
+            <a href="https://www.pexels.com" target="_blank" rel="noreferrer">
+              Photos provided by Pexels
+            </a>
           </small>
         </footer>
       </div>

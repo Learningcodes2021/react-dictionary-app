@@ -1,7 +1,10 @@
 .Meaning h3 {
-  font-size: 24px;
+  text-transform: capitalize;
+  font-family: Consolas;
+  font-size: 26px;
   line-height: 1.5;
   font-weight: bold;
+  color: orange;
 }
 
 .Meaning .example {

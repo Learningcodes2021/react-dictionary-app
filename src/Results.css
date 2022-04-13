@@ -1,5 +1,8 @@
 .Results h2 {
+  text-transform: capitalize;
+  font-family: Consolas;
   font-size: 36px;
   font-weight: bold;
   line-height: 1.5;
+  color: orange;
 }
