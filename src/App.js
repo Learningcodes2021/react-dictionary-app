@@ -17,13 +17,19 @@ export default function App() {
             <a
               href="https://github.com/Learningcodes2021/react-dictionary-app"
               target="_blank"
+              title="GitHub Repository"
               rel="noreferrer"
             >
               Open-source code{" "}
             </a>
             by Jacqueline Berry
             <br />
-            <a href="https://www.pexels.com" target="_blank" rel="noreferrer">
+            <a
+              href="https://www.pexels.com"
+              target="_blank"
+              title="Pexels"
+              rel="noreferrer"
+            >
               Photos provided by Pexels
             </a>
           </small>
