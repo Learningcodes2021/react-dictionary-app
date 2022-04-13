@@ -27,7 +27,7 @@ body {
 .App-footer {
   text-align: center;
   margin: 30px 0;
-  color: #fff;
+  color: lightyellow;
 }
 
 .App a {
@@ -36,5 +36,5 @@ body {
 }
 
 .App a:hover {
-  color: #fff;
+  color: lightyellow;
 }
