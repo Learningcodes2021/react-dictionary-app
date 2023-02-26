@@ -16,7 +16,7 @@ export default function Photos(props) {
                   rel="noreferrer"
                 >
                   <img
-                    src={photo.src.free.landscape.sunset}
+                    src={photo.src.landscape}
                     className="img-fluid"
                     alt={photo.alt}
                   />
